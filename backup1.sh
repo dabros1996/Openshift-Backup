@@ -39,3 +39,5 @@ while read -r secret; do
 done <<< "$all_secrets"
 
 echo "Backup completed successfully: $current_backup_dir"
+
+#test
