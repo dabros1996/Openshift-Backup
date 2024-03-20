@@ -41,3 +41,4 @@ done <<< "$all_secrets"
 echo "Backup completed successfully: $current_backup_dir"
 
 #test 123
+kolejny test
