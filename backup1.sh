@@ -40,4 +40,4 @@ done <<< "$all_secrets"
 
 echo "Backup completed successfully: $current_backup_dir"
 
-#test
+#test 123
